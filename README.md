@@ -23,6 +23,11 @@ For testing
 $ npm run test
 ```
 
-Test Results
+Manuel Test Results
+
+<img src="./images/manuel_test.png" />
+
+
+Automated Test Results
 
 <img src="./images/test_results.png" />
