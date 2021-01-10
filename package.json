@@ -1,0 +1,29 @@
+{
+  "name": "Group15_Term_Project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "run": "npx ts-node self-indexed-sort.ts",
+    "dev": "npx nodemon self-indexed.sort.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/canumay/Group15_Term_Project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/canumay/Group15_Term_Project/issues"
+  },
+  "homepage": "https://github.com/canumay/Group15_Term_Project#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  },
+  "dependencies": {
+    "ts-node": "^9.1.1",
+    "typescript": "^4.1.3"
+  }
+}
