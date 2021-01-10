@@ -31,3 +31,7 @@ Manuel Test Results
 Automated Test Results
 
 <img src="./images/test_results.png" />
+
+Example Diagram
+
+<img src="./images/SIS.png" />
